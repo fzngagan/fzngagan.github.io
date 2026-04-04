@@ -1,4 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+I'm Faizaan Gagan, a Software Engineer with experience in [WordPress](https://wordpress.org/) and [Discourse Forum](https://discourse.org/) development. I have been in the Software Industry for my career of 7 years, where I've built plugins, theme customizations and other really interesting projects. I've worked for [WisdmLabs](https://wisdmlabs.com/), [Pavilion](https://pavilion.tech/) as a Software Engineer. I'm currently a part of [Discourse](https://discourse.org) working as a Technical Advocate. Lately, I've picked up Deep Learning and have finished the [fast.ai course](https://course.fast.ai). 
