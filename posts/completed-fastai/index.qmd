@@ -1,0 +1,7 @@
+---
+title: "Completed the fast.ai Deep Learning course"
+author: "Faizaan Gagan"
+date: "2026-05-10"
+categories: [deeplearning]
+---
+ Finished the fast.ai course recently. Yay
