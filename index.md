@@ -1,1 +1,0 @@
-This is a space where I share my thoughts about tech and about the topics I like.
