@@ -4,16 +4,13 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app/
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/faizaan-gagan/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/fzngagan
 
 ---
 
-About this blog
+Hello, I'm Faizaan Gagan, a Software Engineer based in Gujarat, India. I have been in the software industry since 8 years with experience in WordPress, RoR, EmberJS and Discourse. I was a full time freelancer and co-operative member @ Pavilion(https://pavilion.tech) before I joined Discourse(https://discourse.org) as a Tech Advocate. I am interested in full stack web development, helping out customers and Deep Learning. When I'm not working, I'm probably reading books on Islamic Theology, Metaphysics or Spirituality. Hardcore tea person. He/Him.
